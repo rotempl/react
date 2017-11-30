@@ -1,0 +1,15 @@
+.Jumbotron{
+    display: flex;   
+    /*margin-left: 12%;*/
+    padding-top: 7%; 
+}
+.jumbotronText {
+    font-size: 2.7em;
+    width: 50%;
+    font-family: "Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif";
+    margin-bottom: 2%;
+}
+.boldWord {
+    color: #00BCD4;
+    font-weight: bold;
+}

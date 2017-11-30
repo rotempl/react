@@ -1,0 +1,58 @@
+.singInBox{
+    background-color: white;
+    border: 1px black solid;
+    width: 34%;
+    position: fixed;
+    top: 17%;
+    left: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 46%;
+    z-index: 50;
+    color: #484848;
+}
+.heaer{
+    text-align: center;
+    font-size: 2em;
+    margin: 5% 0;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.input{
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 2%;
+    font-size: 1.3em;
+}
+.singUpButton{
+    margin: 3% 0 5% 3%;
+    width: 94%;
+    background-color: #00BCD4;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.7em;
+    font-weight: bold;
+    color: #484848;
+
+}
+.hidden{
+    display: none;
+}
+.redBorder{
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 2%;
+    font-size: 1.3em;
+    border: 1px solid red;
+}
+emailAlert{
+    color: red;
+    margin-left: 11%;
+}
+.wellocme{
+    font-size: 2em;
+    margin-left: 13%;
+    color: #007cff;
+    font-weight: bold;
+}

@@ -1,0 +1,18 @@
+.headerButton {
+    padding: 1%;
+    color: black;
+    text-decoration: blink;
+    display: inline-block;
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+    font-size: 1.4em;
+    margin-right: 3%;
+}
+
+.headerButton:hover{
+    text-decoration: underline;
+    color:#00BCD4;
+}
+.headerButtonsContaier {
+    border-bottom: solid 1px gray;
+    padding-bottom: 1%;
+}

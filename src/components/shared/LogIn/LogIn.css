@@ -1,0 +1,96 @@
+.logInBox{
+    background-color: #f3f3f3;
+    border: 1px black solid;
+    width: 34%;
+    position: fixed;
+    top: 17%;
+    left: 30%;
+    min-height: 46%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    z-index: 50;
+    color: #484848;
+}
+.logOutBox{
+        background-color: #f3f3f3;
+    border: 1px black solid;
+    width: 34%;
+    position: fixed;
+    top: 17%;
+    left: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    z-index: 50;
+    color: #484848;
+    min-height: 25%;
+}
+.heaer{
+    text-align: center;
+    font-size: 2em;
+    margin: 5% 0;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.input{
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 2%;
+    font-size: 1.3em;
+    background-color: #f3f3f3;
+}
+.logInButton{
+    margin: 3% 0 5% 3%;
+    width: 94%;
+    background-color: #00BCD4;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.7em;
+    font-weight: bold;
+    color: #484848;
+}
+.hidden{
+    display: none;
+}
+.redBorder{
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 2%;
+    font-size: 1.3em;
+    border: 1px solid red;
+}
+.alert{
+    color: red;
+    margin-left: 11%;
+}
+.logOutText{
+    font-size: 1.4em;
+    margin-bottom: 2%;
+}
+.margin{
+    margin-left: 5%;
+    margin-bottom: 4%;
+}
+.largeButton{
+    background-color: #00BCD4;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #484848;
+    width: 40%;
+    margin-right: 2%;
+}
+.smallButton{
+    background-color: #00BCD4;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.6em;
+    color: #484848;
+}
+.logOutButtons{
+    text-align: right;
+    margin-top: 6%;
+    margin-right: 4%;
+}

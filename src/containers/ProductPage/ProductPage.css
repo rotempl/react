@@ -1,0 +1,17 @@
+.marginOnTheSides{
+    margin: 0 10%;
+    display: flex;
+    justify-content: space-between;
+}
+.leftSide {
+    flex-basis: 100%;
+    margin-right: 13%;
+}
+/*.rightSide{
+    flex-basis: 1;
+}*/
+.clearfix{
+    clear: both;
+    display: block;
+    content: "";
+}

@@ -1,0 +1,26 @@
+.wishList {
+    margin-top: 8%;
+    border: 1px solid gray;
+    padding: 3%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.saveWish {
+    background: white;
+    border: 1px solid gray;
+    padding: 4%;
+    border-radius: 4px;
+    width: 78%;
+    margin-bottom: 5%;
+}
+.icons {
+    font-size: 1.2em;
+    margin-top: 6%;
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+.space {
+    display: block;
+}

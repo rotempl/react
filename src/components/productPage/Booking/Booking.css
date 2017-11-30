@@ -1,0 +1,54 @@
+.booking {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: 4px;
+    font-size: 1.6em;
+    color: #484848 ;
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif ;
+}
+.bookingPrice {
+    margin: 0;
+    background-color: #00BCD4;
+    padding-left: 5%;
+}
+.pricePerNight {
+    font-size: 0.8em;
+    font-weight: 200;
+}
+.padding{
+    padding: 3%;
+}
+.datePicker {
+    display: flex;
+    flex-basis: 10%;
+    margin-bottom: 5%;
+}
+.inputDate {
+    width: 100%;
+    color: #484848 ;
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif ;
+}
+.guests {
+    margin-bottom: 4px;
+}
+.paddingFromLabel {
+    margin-right: 32%;
+}
+.pointer{
+    cursor:pointer;
+}
+.searchButton {
+    font-size: 1.5em;
+    background-color: #00BCD4;
+    color: white;
+    border: none;
+    border-radius: 6%;
+    width: 100%;
+    margin-top: 4%;
+}
+.bookingLable{
+    font-size: 0.7em;
+}

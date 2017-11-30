@@ -1,0 +1,37 @@
+.oneReview {
+    border-bottom: 1px solid gray;
+    padding-bottom: 4%;
+    padding-top: 4%;
+}
+.authorName {
+    color: #00BCD4;
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif ;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+.caption {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.desctip {
+    font-weight: 300;
+    color: #484848;
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+    font-size: 1.1em;
+    line-height: 22px;
+}
+.border{
+    border-top: solid 1px gray;
+    border-bottom: solid 1px gray;
+    padding: 4%;
+    text-align: inherit;
+}
+.bold {
+    font-size: 1.6em;
+    font-weight: bold;
+}
+.stars {
+    font-size: 1.4em;
+    margin-left: 4%;
+    color: #00BCD4;
+}

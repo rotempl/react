@@ -1,0 +1,5 @@
+.locations {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 10%;
+}

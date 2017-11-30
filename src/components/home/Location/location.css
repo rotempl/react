@@ -1,0 +1,35 @@
+.location {
+    flex-basis: 20%;
+    margin: 1.5%;
+}
+.locationName {
+    font-size: 2em;
+    color: #00BCD4;
+}
+.locationCity {
+    font-size: 1.3em;
+}
+.locationPrice:before{
+    content: "$"
+}
+.reviews {
+    float: right;
+}
+.locationImag{
+    width: 100%;
+    min-height: 64%;
+    margin-bottom: 2.5%;
+}
+img.locationImag:hover {
+    transform: scale(1.1);
+}
+.locationPrice {
+    font-weight: bold;
+    font-size: 1.2em;
+    float: right;
+}
+.clearfix{
+    clear: both;
+    display: block;
+    content: "";
+}
